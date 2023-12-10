@@ -21,7 +21,7 @@ Paper:  [DigiCall:FinNLP@EMNLP](https://aclanthology.org/2022.finnlp-1.7/)<br>
 Background
 ====
 - Digital transformation reinvents companies, their vision and strategy, organizational structure, processes, capabilities, and culture and enables the development of new or enhanced products and services delivered to customers more efficiently (Bharadwaj et al., 2013; Al-Ali et al., 2020; Jackson, 2015; Freitas Junior et al., 2016).
-- Global spending on digital transformation will reach $2.8 trillion by 2025 and exceed $10 trillion over five years (IDC, 2021).
+- Global spending on digital transformation will reach 2.8 trillion dollars by 2025 and exceed 10 trillion dollars over five years (IDC, 2021).
 - Understanding how successful a company is in its digital transformation starts with accurately measuring its digital maturity levels.
 - Existing approaches to measuring organizations’ digital strategy has inconsistent results and also do not provide resources (data) for future research to improve.
 
