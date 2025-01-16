@@ -53,13 +53,13 @@ Model Results
 ------
 <img src="images/results.png">
 
-An Example : IBM 2018 Q4
+<!-- An Example : IBM 2018 Q4
 ---
 <img src="images/ibm.png">
 <br><br>
 <img src="images/maturity_table1.png" width="50%">
 <br><br>
-<img src="images/maturity_table2.png" width="50%">
+<img src="images/maturity_table2.png" width="50%"> -->
 
 Exploratory Analysis: Stock Returns and Digital Strategy Initiative Maturity
 ----
